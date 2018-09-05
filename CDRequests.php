@@ -63,17 +63,7 @@
     					<input type="varchar" name="AcctNo" placeholder="Enter an account number">
     					MRN
     					<input type="numeric" name="MRN" placeholder="Enter an MRN"><b><br>
-
-
-
-
-
-
-
     					<br><br>
-    				<form action="CDResult.php" method="post">
-					<input type="Submit" value="Search" />
-					</form>
   					</fieldset>
 				</form>
 			<div><h2>Results</h2></div>
