@@ -2,8 +2,8 @@
 ;die();
 ;/*
 [Database]
-username = khealey
-password = Zsxdcfa5!
+username = username
+password = password
 dbname = CDCore
 ;*/
 ;?>
