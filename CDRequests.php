@@ -62,11 +62,27 @@
     					Patient Acct #
     					<input type="varchar" name="AcctNo" placeholder="Enter an account number">
     					MRN
-    					<input type="numeric" name="MRN" placeholder="Enter an MRN">
+    					<input type="numeric" name="MRN" placeholder="Enter an MRN"><b><br>
+
+
+
+
+
+
+
     					<br><br>
-    					<input type="Submit" value="Search">
+    				<form action="CDResult.php" method="post">
+					<input type="Submit" value="Search" />
+					</form>
   					</fieldset>
 				</form>
+			<div><h2>Results</h2></div>
+		</section>
+		<section>
+			<div class= "body">
+				<p>Showing 1 to 0 of 0 total entries</p>
+			</div>
+		</section>
 </body>
 		<footer>
 			&copy; 2018 CDCore - Kelsey Healey
